@@ -21,14 +21,6 @@
 
 </div>
 
-## 📊 GitHub статистика
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=IvanEva&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff8a00&icon_color=ff8a00"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanEva&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff8a00"/>
-
-</div>
 
 <div align="center">
 
