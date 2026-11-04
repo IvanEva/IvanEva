@@ -33,6 +33,8 @@
 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Regression%20Models-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GRU-E91E63?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LSTM-FF9800?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SIR%20%2F%20SEIR%20Models-00897B?style=for-the-badge"/>
 
 </div>
@@ -57,14 +59,6 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 </div>
-
-## Projects
-
-<!-- Replace the links with your own repositories -->
-- **Booking Cancellation Prediction** - ML project: [repository](https://github.com/IvanEva/)
-- **Pandemic Spread Prediction (SEIR)** - epidemiological model: [repository](https://github.com/IvanEva/)
-- **GRU Model for Stock Market Analysis** - PyTorch: [repository](https://github.com/IvanEva/)
-- **RepHelper** - Django/DRF, calendar, wallet, webhooks, Docker Compose: [repository](https://github.com/IvanEva/)
 
 ## Stats
 
