@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Gradient header (capsule-render) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Ioan%20%7C%20Dev%20%26%20Data%20Analyst&fontSize=40&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Python%20%7C%20SQL%20%7C%20Machine%20Learning%20%7C%20Django&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Ioan%20%7C%20Dev%20and%20Data%20Analyst&fontSize=40&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Python%20%7C%20SQL%20%7C%20Machine%20Learning%20%7C%20Django&descAlignY=60&descSize=18" width="100%"/>
 
 <!-- Contacts -->
 <p>
@@ -65,10 +65,6 @@
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=IvanEva&theme=radical&hide_border=true&background=0d1117&ring=ff8a00&fire=ff8a00"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanEva&layout=compact&theme=radical&hide_border=true&bg_color=0d1117"/>
 
 </div>
 
